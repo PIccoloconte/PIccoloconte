@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🔥 Fronte-end e game development</h2>
+<h2 align="left">🔥 Front-end and game developer</h2>
 
 ###
 

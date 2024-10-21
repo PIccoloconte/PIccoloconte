@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">Email: marcocencig97@gmail.com</p>
+<a align="left">Email: marcocencig97@gmail.com</a>
 
 ###
 

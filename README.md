@@ -34,18 +34,19 @@
 
 ###
 
-<p align="left">• ISO CNC language.<br>• Control quality officer.</p>
-
-###
+<p align="left">
+  <img src ="https://img.shields.io/badge/ISO CNC languages-red"/>
+  <img src ="https://img.shields.io/badge/Control quality officers-red"/>
+</p>
 
 <h2 align="left">🔧 Drawing software</h2>
 
 ###
 
-<p align="left">• SolidWorks <br> • AutoCAD</p>
-
-###
-
+<p align="left">
+  <img src ="https://img.shields.io/badge/SolidWorks-blue"/>
+  <img src ="https://img.shields.io/badge/AutoCAD-blue"/>
+</p>
 <h2 align="left">🌐 Socials</h2>
 
 ###
